@@ -11,6 +11,5 @@ This project demonstrates a simple client-server interaction using Python's http
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone
+   1) run create a public port, and run my-server.py. then in another terminal run my-calls.py to the message printed to terminal.
